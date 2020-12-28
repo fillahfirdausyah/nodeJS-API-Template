@@ -1,0 +1,15 @@
+{
+  "name": "nodeJS-API-Template",
+  "version": "1.0.0",
+  "description": "made by Fillah Firdausyah",
+  "main": "index.js",
+  "author": "Fillah Firdausyah",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
